@@ -61,7 +61,7 @@ nav{
 
 
 .main {
-	background: url(/IMG/lap.jpg);
+	background: url(IMG/lap.jpg);
 	background-size: cover;
 	/* height:calc(100vh - 40vh); */
 	height: 100vh;
